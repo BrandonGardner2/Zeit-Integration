@@ -1,5 +1,5 @@
 {
-  "name": "UI Hook",
+  "name": "UI-Hook",
   "dependencies": {
     "@zeit/integration-utils": "^0.5.1"
   }
